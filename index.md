@@ -3,5 +3,5 @@
 Here is the main page.
 
 Here are other pages:
-* [/faq.md](/faq.md "FAQ")
-* [/gettingStarted.md](/gettingStarted.md "Getting Started")
+* [https://dprensha.github.io/testwiki/faq](https://dprensha.github.io/testwiki/faq "FAQ")
+* [https://dprensha.github.io/testwiki/gettingStarted](https://dprensha.github.io/testwiki/gettingStarted "Getting Started")
