@@ -65,31 +65,31 @@ Functionality
 
 An overview of G2's functionality is as follows:
 
-  Module                 Description
-  ---------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Inbox                  Links to modules in G2 that may contain items of interest. Visible links are limited to the modules a user has been granted access.
-  Asset Management       Provides ability to maintain data on infrastructure assets
-  Program Management     At various WBS levels, provides the ability to see costs, commitment, and carry over versus plan. Displays percent complete versus plan.
-  WBS Dashboard          WBS stands for Work Breakdown Structure which contains the hierarchical organization of projects managed by G2. This dashboard provides the ability to search projects and display only those matching the criteria entered.
-  Financial Dashboard    By default, displays a dashboard of monthly financial summary data. Includes extensive search capability of processed transactions. Provides the ability to combine funding requests into FinPlans.
-  Activity Funding       Provides the ability to request funding for a project managed by G2 by performer, fund type, and activity. Until this feature was developed, G2 did not contain the ability to request funding below the level of a project.
-  Funding Requests       Provides the ability for a project to request funding by performer, fund type, and B&R. If approved, requested funds would come from funding already in the G2 project.
-  FinPlan                Short for Financial Plan, provides the ability to transfer money from one project to another. If approved, requested funds would come from funding already in the G2 project.
-  Browse Transactions    Views financial transactions that are under review or ones that have been processed
-  Funding Adjustment     Mechanism for adding funding to projects managed by G2 from external projects that are not part of G2. Likewise provides the ability to remove funding from G2 projects to external projects not managed by G2.
-  Monthly Costs          Enables organizations to manage monthly performer costs
-  Year End Forecasting   Provides the ability to specify how funds will be spend through the remainder of a fiscal year
-  BCR                    Short for Baseline Change Request. Involves adjusting milestones, creating new tasks or cancelling existing ones, adjusting project metrics, or adjusting budget of a project.
-  Schedule               
-  Event Manager          Scheduling and tracking of nuclear security training events at the Y-12 National Security Complex
-  GIS                    Provides ability to visualize data on maps
-  Inventory              Inventory of radiological, nuclear, and alternative technological sources and devices
-  SPA                    An Office of Radiological Security assessment module for inventory
-  Search & Secure        Tracks radioactive material and nuclear assets identified during NNSA assessments
-  Travel                 Allows organizations to manage travel expenditures
-  Reports                G2 contains extensive reporting capabilities. Data from some reports have many of which are reported to Congress
-  Proposal               Manages proposals received from solicitations
-  Safety Management      Provides the ability to perform, review, compare, and evaluate a site's conformity to safety standards
+| Module               | Description                                                                                                                                                                                                                  |
+|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Inbox                | Links to modules in G2 that may contain items of interest. Visible links are limited to the modules a user has been granted access.                                                                                          |
+| Asset Management     | Provides ability to maintain data on infrastructure assets                                                                                                                                                                   |
+| Program Management   | At various WBS levels, provides the ability to see costs, commitment, and carry over versus plan. Displays percent complete versus plan.                                                                                     |
+| WBS Dashboard        | WBS stands for Work Breakdown Structure which contains the hierarchical organization of projects managed by G2. This dashboard provides the ability to search projects and display only those matching the criteria entered. |
+| Financial Dashboard  | By default, displays a dashboard of monthly financial summary data. Includes extensive search capability of processed transactions. Provides the ability to combine funding requests into FinPlans.                          |
+| Activity Funding     | Provides the ability to request funding for a project managed by G2 by performer, fund type, and activity. Until this feature was developed, G2 did not contain the ability to request funding below the level of a project. |
+| Funding Requests     | Provides the ability for a project to request funding by performer, fund type, and B&R. If approved, requested funds would come from funding already in the G2 project.                                                      |
+| FinPlan              | Short for Financial Plan, provides the ability to transfer money from one project to another. If approved, requested funds would come from funding already in the G2 project.                                                |
+| Browse Transactions  | Views financial transactions that are under review or ones that have been processed                                                                                                                                          |
+| Funding Adjustment   | Mechanism for adding funding to projects managed by G2 from external projects that are not part of G2. Likewise provides the ability to remove funding from G2 projects to external projects not managed by G2.              |
+| Monthly Costs        | Enables organizations to manage monthly performer costs                                                                                                                                                                      |
+| Year End Forecasting | Provides the ability to specify how funds will be spend through the remainder of a fiscal year                                                                                                                               |
+| BCR                  | Short for Baseline Change Request. Involves adjusting milestones, creating new tasks or cancelling existing ones, adjusting project metrics, or adjusting budget of a project.                                               |
+| Schedule             |                                                                                                                                                                                                                              |
+| Event Manager        | Scheduling and tracking of nuclear security training events at the Y-12 National Security Complex                                                                                                                            |
+| GIS                  | Provides ability to visualize data on maps                                                                                                                                                                                   |
+| Inventory            | Inventory of radiological, nuclear, and alternative technological sources and devices                                                                                                                                        |
+| SPA                  | An Office of Radiological Security assessment module for inventory                                                                                                                                                           |
+| Search & Secure      | Tracks radioactive material and nuclear assets identified during NNSA assessments                                                                                                                                            |
+| Travel               | Allows organizations to manage travel expenditures                                                                                                                                                                           |
+| Reports              | G2 contains extensive reporting capabilities. Data from some reports have  many of which are reported to Congress                                                                                                            |
+| Proposal             | Manages proposals received from solicitations                                                                                                                                                                                |
+| Safety Management    | Provides the ability to perform, review, compare, and evaluate a site’s conformity to safety standards                                                                                                                       |
 
 Roles and Permissions
 ---------------------
