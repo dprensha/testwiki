@@ -1,4 +1,7 @@
 # Welcome to the Wiki
 
 Here is the main page.
-Here are other pages.
+
+Here are other pages:
+* [/faq.md](/faq.md "FAQ")
+* [/gettingStarted.md](/gettingStarted.md "Getting Started")
